@@ -1,0 +1,15 @@
+.full button span {
+    background-color: aqua;
+    border-radius: 32px;
+    color: black;
+}
+
+.partially button span {
+    background-color: coral;
+    border-radius: 32px;
+    color: black;
+}
+
+body {
+    margin-left: 5%;
+}
